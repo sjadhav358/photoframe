@@ -1,0 +1,106 @@
+		.container
+		{
+			
+		}
+	 	img
+		{
+		   width: 300px;
+			height: 300px;
+		  position:relative;
+			margin: 0px;
+			padding: 0px;
+			
+	   
+		}
+		
+	 
+
+		.bg-color
+		{
+			 display: flex;
+			background-color: #223e6b;
+			justify-content: center;
+		}
+		h6
+		{
+			;
+			color: #5555e1;;
+			font-size: 22px;
+		}
+		body
+		{
+			background-color: gainsboro;
+			font-family: ' Verdana';
+			min-height: 100vh;
+		}
+		
+
+		.card-title
+		{
+			color: white;
+		}
+	
+		.btn-color {
+    background-color: WHITE;
+    /* border: 1px solid black; */
+    color: #223e6b;
+    height: 47px;
+		width: 115px;	
+    FONT-SIZE: 18PX;
+		border-bottom: 5px solid #223e6b;
+			
+		}
+	
+		.footer h6
+		{
+			 color: white;
+		}
+	
+	
+		*
+		{
+			padding: 0px;
+			margin: 0px;
+			box-shadow: border-box;
+		}
+		h6
+		{
+			text-align: center;
+			color: #223e6b;
+		}
+				.card.card-info {
+    margin-left: 66px;
+}
+		footer
+		{
+			text-align: center;
+			background-color: #223e6b;
+			color: white;
+			padding: 10px;
+			position: fixed;	
+			bottom:0px;
+			width: 100%;
+			z-index: 1;
+			
+		}
+		@media screen and (max-width:500px)
+		{
+			
+	 	img
+		{
+		   width: 300px;
+			height: 400px;
+		  position:relative;
+			margin: 0px;
+			padding: 0px;
+			
+	   
+		}
+			.card-footer
+			{
+				width: 450px;
+			}
+			
+
+		
+		}

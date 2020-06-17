@@ -1,0 +1,8 @@
+/*file this instruction to run this code 
+
+ this application created in php so you have to download xamp 
+ 
+*/
+ 1)import the databasefile.sql in folder 
+ 2) start xamp server 
+ 
